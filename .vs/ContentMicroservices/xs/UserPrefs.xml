@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{688E4858-7452-492A-8CEF-3C5AF2C6CC9F}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Content.Services.CouponAPI/Controllers/CouponController.cs">
+    <Files>
+      <File FileName="Content.Services.CouponAPI/Program.cs" Line="24" Column="107" />
+      <File FileName="Content.Services.CouponAPI/MappingConfig.cs" Line="11" Column="25" />
+      <File FileName="Content.Services.CouponAPI/Controllers/CouponController.cs" Line="64" Column="18" />
+      <File FileName="Content.Services.CouponAPI/Data/AppDbContext.cs" Line="9" Column="18" />
+      <File FileName="Content.Services.CouponAPI/Models/Dto/ResponseDto.cs" Line="8" Column="44" />
+      <File FileName="Content.Services.CouponAPI/Models/Coupon.cs" Line="13" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContentMicroservices" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Content.Services.CouponAPI" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="CouponController.cs" selected="True" />
+                </Node>
+                <Node name="Data" expanded="True" />
+                <Node name="Migrations" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Dto" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Services.Content.Services.CouponAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
